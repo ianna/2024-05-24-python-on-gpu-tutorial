@@ -1,1 +1,4 @@
-# 2024-05-24-hsf-india-tutorial-delhi
+# GPU Programming in Python
+ - Basic CUDA memory/threading model
+ - Atomic Operations
+ - Histogramming
